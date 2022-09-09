@@ -4,7 +4,7 @@
  * main - print some text
  *
  * Return:Always 0(worked)
- */
+*/
 
 int main(void)
 {
