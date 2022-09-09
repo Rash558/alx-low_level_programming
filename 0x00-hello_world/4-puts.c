@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - Printing
- *
- *Return:Always 0(success)
- */
+* main - Printing
+*
+*Return:Always 0(success)
+*/
 
 int main (void)
 {
